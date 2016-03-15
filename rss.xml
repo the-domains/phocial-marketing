@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Phocial Marketing]]></title>
         <description><![CDATA[Phocial Marketing]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/phocial-marketing/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 16:41:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Mar 2016 16:52:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/phocial-marketing/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Are You Budgeting For Custom Content Marketing?]]></title>
+            <description><![CDATA[<article><h1>Are You Budgeting For Custom Content Marketing?</h1><p>First, lets start off with the question of What exactly is Custom Content Marketing? </p></article>]]></description>
+            <link>https://thegrid.ai/phocial-marketing/are-you-budgeting-for-custom-content-marketing/index.html</link>
+            <guid isPermaLink="false">d73088c8-a3dd-4592-9f1c-12877f20895a</guid>
+            <pubDate>Tue, 15 Mar 2016 16:52:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[RESPONSIVE LAYOUTS A HIT AT THE 56TH GRAMMY AWARDS]]></title>
             <description><![CDATA[<article><h1>RESPONSIVE LAYOUTS A HIT AT THE 56TH GRAMMY AWARDS</h1><p>On January 26, 2014 Phocial Marketing proudly debuted a new feature called Responsive Layouts at The 56th GRAMMY Awards in Los Angeles.  This game changing enhancement enabled our mobile photographers to instinctively choose the best orientation and graphic layout for the photo without any manual changes or wasted time.  Responsive Layouts ensure a higher quality and more shareable take away for event guests, without sacrificing branding opportunities for Phocial clients.
@@ -15,7 +22,7 @@ The added flexibility resulted in a 90% increase in micro site photo views and a
 Responsive Layouts are perfect for Red Carpet Step and Repeat events, capturing both large groups and that stunning head to toe shot of that special dress.  Athlete Meet & Greets or any other event where a significant height difference occurs between guests and talent.  At concerts, this allows Phocial to capture the perfect balance of guests and stage/lighting giving the photo a true feel for the entire experience.  The added ability to capture event signage behind guests, perfect for wine and food festivals.
 
 Phocial is the industry leader in Worldwide Photo Marketing.  From concept to execution, our industry experts will work closely with you to exceed your project goals.  Give us a call today to start planning your upcoming events and campaigns.  800-470-9020 or info@getphocial.com</p></article>]]></description>
-            <link>undefinedresponsive-layouts-a-hit-at-the-56th-grammy-awards/index.html</link>
+            <link>https://thegrid.ai/phocial-marketing/responsive-layouts-a-hit-at-the-56th-grammy-awards/index.html</link>
             <guid isPermaLink="false">050a0f89-aad4-4b8f-8080-cc1c3d32b9b9</guid>
             <pubDate>Tue, 15 Mar 2016 16:41:13 GMT</pubDate>
         </item>
